@@ -3,7 +3,7 @@ Cohort analysis involves dividing users into distinct groups, or cohorts, based 
 
 For example, you might create cohorts based on the month users first signed up for your service. You can then track how each cohort's activity, such as their conversion rate or lifetime value, evolves over time. This approach allows you to identify trends, anomalies, and areas where you may need to make adjustments to improve user retention and satisfaction.
 
-Retention Rate Time-Based Cohort Analysis:
+# Retention Rate Time-Based Cohort Analysis:
 
 Retention rate time-based cohort analysis is a specialized form of cohort analysis that focuses on the retention of users over multiple time periods.
 
