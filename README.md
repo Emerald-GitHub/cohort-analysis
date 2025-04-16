@@ -16,3 +16,12 @@ Measure the percentage of users from each cohort who continue to engage with you
 Analyze how retention rates vary across different cohorts and time periods, enabling you to identify trends and make data-driven decisions.
 
 This analysis can reveal whether certain cohorts have better or worse retention rates, helping the business understand the factors contributing to user retention or attrition. It can also assist in optimizing marketing, product development, and customer support strategies. 
+
+Import libraries
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import datetime as dt
+from matplotlib.ticker import FuncFormatter
+Load and prepare dataset
